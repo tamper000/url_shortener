@@ -4,3 +4,6 @@
 > $```go build```
 > 
 > $```./url_shortener```
+
+# SCREENSHOT:
+![Screenshot](screenshot/web.png)
